@@ -1,11 +1,10 @@
 # Hi there, I'm Yared! 👋
 
 ## About Me
-I'm a passionate **Software Engineer** and **QA Automation Specialist**. Currently in my 4th year at **Addis Ababa Science and Technology University**, I work full-time with **Selenium** and **C#**.  
+I'm a passionate **Software Engineer** with hands-on experience as a **Software Engineer in Test(SDET)**. GC student @ **Addis Ababa Science and Technology University**, I work full-time with **Selenium** and **C#**.  
 
 - 🔍 **Working on:** Automation testing frameworks  
-- 📚 **Learning:** Advanced data structures & algorithms  
-- 🤝 **Open to:** Full-stack, AI, and innovative tech projects  
+- 🤝 **Open to:** Full-stack, SDET, and innovative tech projects  
 - 🧑‍💻 **Pronouns:** He/Him  
 
 ---
